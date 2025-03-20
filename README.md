@@ -27,7 +27,7 @@ Une livraison avec des produits manquants doit forcément aboutir sur la program
 # Gestion des ventes
 
 On gère la facturation automatisée de chaque transaction de vente. Une vente peut être associée ou non à un compte client.
-Il est nécessaire de retenir tous les détails de la facturation, y compris la date et l'heure, et la valeur individuelle de chaque produit.
+Il est nécessaire de retenir tous les détails de la facturation, y compris la date et l'heure, et la valeur individuelle de chaque produit (d'achat fournisseur et de vente client).
 
 # Droits applicatifs
 
