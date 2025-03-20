@@ -9,7 +9,7 @@ Vous pouvez travailler en équipe sur le projet, mais l'essentiel est de s'exerc
 # Gestion de l’inventaire des produits
 
 Nous aurons besoin de gérer l'inventaire des produits ainsi que des stocks.
-Pour cela, à minima une classe Produit est nécessaire, avec le nom de chaque produit, l'identifiant interne (sous forme de chaîne), la catégorie du produit, son poids, son prix de vente, son mode de conservation (ambiant, froid ou gel) ainsi que sa valeur fournisseur.
+Pour cela, à minima une classe Produit est nécessaire, avec le nom de chaque produit, l'identifiant interne (sous forme de chaîne), la catégorie du produit, son poids, son prix de vente, son mode de conservation (ambiant, froid ou gel) ainsi que sa valeur fournisseur (le prix d'achat).
 Les catégories doivent également être définies, avec un nom.
 On doit connaître la quantité de produits en stock et en rayon.
 
